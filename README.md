@@ -1,1 +1,3 @@
-# BSEP_T30
+# Bezbednost u sistemima elektronskog poslovanja
+
+Jednoclani tim - Luka Nikolić
